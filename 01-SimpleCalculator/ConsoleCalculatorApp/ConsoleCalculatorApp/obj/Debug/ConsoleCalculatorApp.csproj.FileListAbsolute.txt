@@ -1,0 +1,7 @@
+C:\Users\josec\Source\Repos\Csharp-Challenges\01-SimpleCalculator\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.exe.config
+C:\Users\josec\Source\Repos\Csharp-Challenges\01-SimpleCalculator\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.exe
+C:\Users\josec\Source\Repos\Csharp-Challenges\01-SimpleCalculator\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.pdb
+C:\Users\josec\Source\Repos\Csharp-Challenges\01-SimpleCalculator\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.csprojAssemblyReference.cache
+C:\Users\josec\Source\Repos\Csharp-Challenges\01-SimpleCalculator\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\josec\Source\Repos\Csharp-Challenges\01-SimpleCalculator\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.exe
+C:\Users\josec\Source\Repos\Csharp-Challenges\01-SimpleCalculator\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.pdb
