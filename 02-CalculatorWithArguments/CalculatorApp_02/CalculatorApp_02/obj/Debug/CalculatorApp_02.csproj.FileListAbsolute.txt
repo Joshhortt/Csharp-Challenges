@@ -1,0 +1,6 @@
+C:\Users\josec\Source\Repos\Csharp-Challenges\02-CalculatorWithArguments\CalculatorApp_02\CalculatorApp_02\bin\Debug\CalculatorApp_02.exe.config
+C:\Users\josec\Source\Repos\Csharp-Challenges\02-CalculatorWithArguments\CalculatorApp_02\CalculatorApp_02\bin\Debug\CalculatorApp_02.exe
+C:\Users\josec\Source\Repos\Csharp-Challenges\02-CalculatorWithArguments\CalculatorApp_02\CalculatorApp_02\bin\Debug\CalculatorApp_02.pdb
+C:\Users\josec\Source\Repos\Csharp-Challenges\02-CalculatorWithArguments\CalculatorApp_02\CalculatorApp_02\obj\Debug\CalculatorApp_02.csproj.CoreCompileInputs.cache
+C:\Users\josec\Source\Repos\Csharp-Challenges\02-CalculatorWithArguments\CalculatorApp_02\CalculatorApp_02\obj\Debug\CalculatorApp_02.exe
+C:\Users\josec\Source\Repos\Csharp-Challenges\02-CalculatorWithArguments\CalculatorApp_02\CalculatorApp_02\obj\Debug\CalculatorApp_02.pdb
