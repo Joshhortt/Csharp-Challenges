@@ -26,5 +26,31 @@ namespace WinFormsLogin
 		{
 			cmdEnter.Enabled = textUser.Text != "" && textPassword.Text != "" ? true : false;
 		}
+
+		private void textUser_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.KeyCode == Keys.Enter)
+			{
+				textPassword.Focus();
+				e.Handled = true;
+				e.SuppressKeyPress = true; 
+			}
+		}
+
+		private void textPassword_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.KeyCode == Keys.Enter)
+			{
+				cmdEnter_Click(this, EventArgs.Empty);
+				e.Handled = true;
+				e.SuppressKeyPress = true;
+			}
+		}
+
+		private void cmdEnter_Click(object sender, EventArgs e)
+		{
+			if(!cmdEnter.Enabled) return;
+			MessageBox.Show("You just Entered");
+		}
 	}
 }

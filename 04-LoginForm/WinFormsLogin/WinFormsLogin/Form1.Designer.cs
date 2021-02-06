@@ -44,6 +44,7 @@ namespace WinFormsLogin
 			this.cmdEnter.TabIndex = 2;
 			this.cmdEnter.Text = "Enter";
 			this.cmdEnter.UseVisualStyleBackColor = true;
+			this.cmdEnter.Click += new System.EventHandler(this.cmdEnter_Click);
 			// 
 			// label1
 			// 
@@ -70,6 +71,7 @@ namespace WinFormsLogin
 			this.textUser.Size = new System.Drawing.Size(150, 20);
 			this.textUser.TabIndex = 0;
 			this.textUser.TextChanged += new System.EventHandler(this.text_textChanged);
+			this.textUser.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textUser_KeyDown);
 			// 
 			// textPassword
 			// 
@@ -78,6 +80,7 @@ namespace WinFormsLogin
 			this.textPassword.Size = new System.Drawing.Size(150, 20);
 			this.textPassword.TabIndex = 1;
 			this.textPassword.TextChanged += new System.EventHandler(this.text_textChanged);
+			this.textPassword.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textPassword_KeyDown);
 			// 
 			// Form1
 			// 
