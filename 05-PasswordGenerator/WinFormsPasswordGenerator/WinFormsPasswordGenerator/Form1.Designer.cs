@@ -132,6 +132,7 @@ namespace WinFormsPasswordGenerator
 			this.Controls.Add(this.label1);
 			this.Controls.Add(this.cmdGenerate);
 			this.Name = "Form1";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Form1";
 			((System.ComponentModel.ISupportInitialize)(this.countChars)).EndInit();
 			this.ResumeLayout(false);
