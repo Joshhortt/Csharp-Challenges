@@ -29,27 +29,27 @@ namespace WinFormsListControl
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.listBox1 = new System.Windows.Forms.ListBox();
-			this.listBox2 = new System.Windows.Forms.ListBox();
+			this.list1 = new System.Windows.Forms.ListBox();
+			this.list2 = new System.Windows.Forms.ListBox();
 			this.btnAdd = new System.Windows.Forms.Button();
 			this.textName = new System.Windows.Forms.TextBox();
 			this.SuspendLayout();
 			// 
-			// listBox1
+			// list1
 			// 
-			this.listBox1.FormattingEnabled = true;
-			this.listBox1.Location = new System.Drawing.Point(41, 84);
-			this.listBox1.Name = "listBox1";
-			this.listBox1.Size = new System.Drawing.Size(167, 277);
-			this.listBox1.TabIndex = 0;
+			this.list1.FormattingEnabled = true;
+			this.list1.Location = new System.Drawing.Point(41, 84);
+			this.list1.Name = "list1";
+			this.list1.Size = new System.Drawing.Size(167, 277);
+			this.list1.TabIndex = 0;
 			// 
-			// listBox2
+			// list2
 			// 
-			this.listBox2.FormattingEnabled = true;
-			this.listBox2.Location = new System.Drawing.Point(244, 84);
-			this.listBox2.Name = "listBox2";
-			this.listBox2.Size = new System.Drawing.Size(170, 277);
-			this.listBox2.TabIndex = 1;
+			this.list2.FormattingEnabled = true;
+			this.list2.Location = new System.Drawing.Point(244, 84);
+			this.list2.Name = "list2";
+			this.list2.Size = new System.Drawing.Size(170, 277);
+			this.list2.TabIndex = 1;
 			// 
 			// btnAdd
 			// 
@@ -75,8 +75,8 @@ namespace WinFormsListControl
 			this.ClientSize = new System.Drawing.Size(800, 450);
 			this.Controls.Add(this.textName);
 			this.Controls.Add(this.btnAdd);
-			this.Controls.Add(this.listBox2);
-			this.Controls.Add(this.listBox1);
+			this.Controls.Add(this.list2);
+			this.Controls.Add(this.list1);
 			this.Name = "Form1";
 			this.Text = "Form1";
 			this.ResumeLayout(false);
@@ -86,8 +86,8 @@ namespace WinFormsListControl
 
 		#endregion
 
-		private System.Windows.Forms.ListBox listBox1;
-		private System.Windows.Forms.ListBox listBox2;
+		private System.Windows.Forms.ListBox list1;
+		private System.Windows.Forms.ListBox list2;
 		private System.Windows.Forms.Button btnAdd;
 		private System.Windows.Forms.TextBox textName;
 	}
