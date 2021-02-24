@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsInverseSentence", "WindowsFormsInverseSentence\WindowsFormsInverseSentence.csproj", "{B787B59C-269B-4E38-921F-2CDFA394E227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B787B59C-269B-4E38-921F-2CDFA394E227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B787B59C-269B-4E38-921F-2CDFA394E227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B787B59C-269B-4E38-921F-2CDFA394E227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B787B59C-269B-4E38-921F-2CDFA394E227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86D02BE9-BFA5-4C63-9D98-2C4EE52DD68B}
+	EndGlobalSection
+EndGlobal
