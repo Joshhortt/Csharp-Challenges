@@ -30,7 +30,7 @@ namespace ConsoleCalculatorApp
 				double a = 0;
 				double b = 0;
 
-				// exit aplication
+				// Etxit aplication
 				if (option == "0") Environment.Exit(0);
 				// if (option == "0") exit = true;  is another possibility to exit the program.
 
